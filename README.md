@@ -14,10 +14,10 @@ Fed-EALE combines:
 
 ## 📁 Project Structure
 Fed-EALE/
-├── circom_1/ # ZKP-based authentication circuits using circom
-├── dataset/ # A123 SOC dataset for FL model training and evaluation
-├── factor_t_4/ # ZKP identity authentication implementation with circom
-├──  # Evaluation: FL performance, overhead, blockchain access
+- ├── circom_1/ # ZKP-based authentication circuits using circom
+- ├── dataset/ # A123 SOC dataset for FL model training and evaluation
+- ├── factor_t_4/ # ZKP identity authentication implementation with circom
+- ├── ZKP_Auth # Evaluation: FL performance, overhead, blockchain access
 
 
 ### 🔐 `circom_1/`
