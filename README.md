@@ -41,7 +41,7 @@ Fed-EALE/
   Storage Overhead
   Blockchain Access Time
 
-#### ⚙️Requirements
+## ⚙️Requirements
 circom >= v2.0
 node.js >= 14
 snarkjs
