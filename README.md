@@ -34,11 +34,11 @@ Fed-EALE/
 
 ### 🔐  `ZKP-Auth/`
 Includes comprehensive evaluation scripts:
-- Federated Learning Performance
-- Computation Overhead
-- Communication Overhead
-- Storage Overhead: run `stoOver_2.py` and `stoOver_TA.py` to test storage cost in the vehicle and TA for identity management
-- Blockchain Access Time: run `Access.java` to test on chain access time
+- Federated Learning Performance: run `trainSOCV_7.py` to test FL model performance.
+- Computation Overhead：run `comOver.py` to test computation cost.
+- Communication Overhead：run `comOver_2.py` to test communication cost.
+- Storage Overhead: run `stoOver_2.py` and `stoOver_TA.py` to test storage cost in the vehicle and TA for identity management.
+- Blockchain Access Time: run `Access.java` to test on chain access time.
 
 ## ⚙️Requirements
 - circom >= v2.0
