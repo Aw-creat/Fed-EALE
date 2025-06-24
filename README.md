@@ -17,7 +17,7 @@ Fed-EALE/
 - ├── circom_1/ # ZKP-based authentication circuits using circom
 - ├── dataset/ # A123 SOC dataset for FL model training and evaluation
 - ├── factor_t_4/ # ZKP identity authentication implementation with circom
-- ├── ZKP_Auth # Evaluation: FL performance, overhead, blockchain access
+- ├── ZKP_Auth/ # Evaluation: FL performance, overhead, blockchain access
 
 
 ### 🔐 `circom_1/`
@@ -42,8 +42,8 @@ Fed-EALE/
   Blockchain Access Time
 
 ## ⚙️Requirements
-circom >= v2.0
-node.js >= 14
-snarkjs
-Python >= 3.7
-Common libraries: numpy, pandas, scikit-learn, matplotlib... (for FL)
+- circom >= v2.0
+- node.js >= 14
+- snarkjs
+- Python >= 3.7
+- Common libraries: numpy, pandas, scikit-learn, matplotlib... (for FL)
