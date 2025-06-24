@@ -31,6 +31,7 @@ Fed-EALE/
 
 ### 🔐  `factor_t_4/`
 - Implements an ZKP-based identity authentication circuit using circom.
+- **Key Script**: `circom_6.circom` – run this to implements the ZKP circuits. Due to file size limitations, such as git lfs untack "*. zkey", "*. patau", "*. r1cs", "*. sym", please generate your own files or contact us.
 
 ### 🔐  `ZKP-Auth/`
 Includes comprehensive evaluation scripts:
