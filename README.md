@@ -30,8 +30,7 @@ Fed-EALE/
 - Used for state of charge (SOC) estimation in the federated learning setting.
 
 ### 🔐  `factor_t_4/`
-- Implements an alternative ZKP-based identity authentication circuit using circom.
-- Use for comparative evaluation or alternative ZKP configurations.
+- Implements an ZKP-based identity authentication circuit using circom.
 
 ### 🔐  `ZKP-Auth/`
 - Includes comprehensive evaluation scripts:
