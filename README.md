@@ -33,12 +33,12 @@ Fed-EALE/
 - Implements an ZKP-based identity authentication circuit using circom.
 
 ### 🔐  `ZKP-Auth/`
-- Includes comprehensive evaluation scripts:
-  Federated Learning Performance
-  Computation Overhead
-  Communication Overhead
-  Storage Overhead
-  Blockchain Access Time
+Includes comprehensive evaluation scripts:
+- Federated Learning Performance
+- Computation Overhead
+- Communication Overhead
+- Storage Overhead: run `stoOver_2.py` and `stoOver_TA.py` to test storage cost in the vehicle and TA for identity management
+- Blockchain Access Time: run `Access.java` to test on chain access time
 
 ## ⚙️Requirements
 - circom >= v2.0
